@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a632910-beb4-4605-82d1-c9f4dd47365c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="339" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1alDFbXz2Yvn5Nh31j1koUQCSIg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/live-js/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a632910-beb4-4605-82d1-c9f4dd47365c" name="Default Changelist" comment="" />
+      <created>1587301183548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587301183548</updated>
+      <workItem from="1587301184983" duration="2369000" />
+      <workItem from="1587371425662" duration="3000" />
+      <workItem from="1587393502788" duration="2567000" />
+      <workItem from="1587427046830" duration="1385000" />
+      <workItem from="1587460211886" duration="3000" />
+      <workItem from="1587822241561" duration="2017000" />
+      <workItem from="1587900465707" duration="3000" />
+      <workItem from="1587900684003" duration="2910000" />
+      <workItem from="1587907852583" duration="470000" />
+      <workItem from="1588049120399" duration="747000" />
+      <workItem from="1588054800285" duration="3000" />
+      <workItem from="1589163278962" duration="248000" />
+      <workItem from="1589283470144" duration="13000" />
+      <workItem from="1590590380226" duration="65000" />
+      <workItem from="1590629198587" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1478" height="258" key="GridCell.Tab.0.bottom" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.0.center" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.0.left" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.0.right" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.1.bottom" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.1.center" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.1.left" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.1.right" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.2.bottom" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.2.center" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.2.left" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.2.right" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.3.bottom" timestamp="1588050003709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588050003709" />
+    <state width="1478" height="258" key="GridCell.Tab.3.center" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.3.left" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state width="1478" height="258" key="GridCell.Tab.3.right" timestamp="1588050003708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="258" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1588050003708" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1587393637371">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587393637371" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/live_js$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1587301772641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
